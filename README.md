@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🛠 **Frontend Engineer** with strong creative, technical, and enterprise experience. Proven teamwork, communication, and leadership skills. Committed as both a _teacher_ and a _student_ of ongoing technological progression. Lifelong texhnologist and strong believer in **Using the Platform** (Web APIs, standard HTML5, JavaScript, CSS3 and Web Components)
+🛠 **Frontend Engineer** with strong creative, technical, and enterprise experience. Proven teamwork, communication, and leadership skills. Committed as both a _teacher_ and a _student_ of ongoing technological progression. 
+
+Lifelong texhnologist and strong believer in **Using the Platform** (Web APIs, standard HTML5, JavaScript, CSS3 and Web Components)
 
 💬 Let's talk about...
 - 📊 Data visualization
