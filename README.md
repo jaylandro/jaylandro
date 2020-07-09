@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Frontend Engineer with strong creative, technical, and enterprise experience. Proven teamwork, communication, and leadership skills. Committed as both a teacher and a student of ongoing technological progression. Let's talk about data visualization libraries, Vue, Angular, React, Observables, MobX, Serverless applications and automation. The future is now! 🚀
+
 <!--
 **jaylandro/jaylandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
