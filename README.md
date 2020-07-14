@@ -8,7 +8,6 @@ Lifelong texhnologist and strong believer in **Using the Platform** (Web APIs, s
 - 📊 Data visualization
 - ♿ Accessibility
 - 🔭 Vue
-- 🅰️ Angular
 - :atom_symbol: React
 - 👓 Observables
 - Ⓜ MobX
