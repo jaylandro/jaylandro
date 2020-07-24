@@ -15,24 +15,6 @@ Lifelong texhnologist and strong believer in **Using the Platform** (Web APIs, s
 
 **The future is now!** 🚀
 
-<link rel="stylesheet" href="editormd/css/editormd.css" />
-<div id="test-editor">
-    <textarea style="display:none;">### Editor.md
-
-**Editor.md**: The open source embeddable online markdown editor, based on CodeMirror & jQuery & Marked.
-    </textarea>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="editormd/editormd.min.js"></script>
-<script type="text/javascript">
-    $(function() {
-        var editor = editormd("test-editor", {
-            // width  : "100%",
-            // height : "100%",
-            path   : "editormd/lib/"
-        });
-    });
-</script><h3>h3</h3>
 
 <!--
 **jaylandro/jaylandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
