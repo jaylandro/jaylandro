@@ -15,7 +15,7 @@ Lifelong texhnologist and strong believer in **Using the Platform** (Web APIs, s
 
 **The future is now!** 🚀
 
-<input type="text"></input>
+<input type="text" id="name" name="name"/>
 <h3>h3</h3>
 
 <!--
