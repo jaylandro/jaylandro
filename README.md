@@ -1,8 +1,4 @@
-### Hello friend 👋
+### Hello Friend
 
-- 🔭 I’m currently working on a low-code, self serve, analytics & visualization workflow for Mode in Angular & TypeScript
-- 🌱 I’m currently learning Python, ML, algorithms
-- 👯 I’m looking to collaborate on fighting racial & gender inequality
-- 💬 Ask me about Vue, i18n, a11y, CI/CD
-- 😄 Pronouns: they/them/theirs
-- ⚡ I am my most true self in the dancehall
+- Experienced Software Engineer & Architect with a demonstrated history of delivering quality results on tight timelines. 
+- Strong leader skilled in team building, development, project management, and org-wide collaboration.
