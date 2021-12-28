@@ -1,7 +1,7 @@
 ### hello friend
 
-- Experienced Software Engineer & Architect with a demonstrated history of delivering quality results on tight timelines. 
-- Strong leader skilled in team building, development, project management, and org-wide collaboration.
+- Experienced architect & developer with a demonstrated history of delivering quality results on tight timelines. 
+- Skilled in team building, sldc, project management, and org-wide collaboration.
 
 ```
                                                  *******
