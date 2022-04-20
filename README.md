@@ -2,7 +2,7 @@
 
 Building teams, workflows and applications brings me great joy. 
 
-```
+
             ^^                   @@@@@@@@@
        ^^       ^^            @@@@@@@@@@@@@@@
                             @@@@@@@@@@@@@@@@@@              ^^
@@ -14,4 +14,4 @@ Building teams, workflows and applications brings me great joy.
  ~  ~       ~ ~      ~           ~~ ~~~~~~  ~      ~~  ~             ~~
        ~             ~        ~      ~      ~~   ~             ~
 
-```
+
