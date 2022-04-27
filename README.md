@@ -1,6 +1,9 @@
 ### jay landro
 
-Building teams, workflows and applications brings me joy. 
+    I enjoy building
+    teams, workflows,
+    applications and
+    electronics.....
 
 <pre>
 
