@@ -1,4 +1,4 @@
-## jay landro <sub>https://landro.dev</sub>
+## joy landro <sub>https://landro.dev</sub>
 
     I enjoy building
     teams, workflows,
