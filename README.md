@@ -1,9 +1,6 @@
 ## joy landro <sub>https://landro.dev</sub>
 
-    I enjoy building
-    teams, workflows,
-    applications and
-    electronics.....
+    I enjoy
 
 <pre>
 
